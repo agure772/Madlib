@@ -9,7 +9,7 @@ How this works in case you may need a breakdown.
 
  
  
-1. The word "any" in my code is where the user input will take place in newly created sentence.
+1. The word "any" in my code is where the user input will take place in a newly created sentence.
     ![image](https://user-images.githubusercontent.com/23223322/118347842-bfad3780-b50b-11eb-88d0-269a6886b5e5.png)
 
  
