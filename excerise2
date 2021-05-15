@@ -1,0 +1,18 @@
+import random
+
+
+#open the madlib text file
+f = open('file.txt', 'r')
+
+#read the file
+myText = f.readlines()
+
+#choose random line from the list
+newtext = random.choice(myText)
+
+# user input for word 
+word = input("Enter a noun:" )
+
+newtext = newtext.replace("hoe", word)
+
+print(newtext)
