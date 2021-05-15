@@ -13,6 +13,6 @@ newtext = random.choice(myText)
 # user input for word 
 word = input("Enter a noun:" )
 
-newtext = newtext.replace("hoe", word)
+newtext = newtext.replace("any", word)
 
 print(newtext)
